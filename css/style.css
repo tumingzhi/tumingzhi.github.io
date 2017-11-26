@@ -1,0 +1,55 @@
+﻿  div.item img{
+  width:100%;
+   }
+  div#carousel-example-generic{
+    width:100%;
+    margin:0 auto;
+  }
+  /*图片尺寸1080*200左右*/
+.welcome{
+	  font-family:微软雅黑;
+	  font-size:1.8em;
+	  text-align:center;
+	  color:black;
+	  font-weight:bold;
+	  padding:20px 0 10px 0;
+  }
+  #span1{
+	  position:absolute;
+	  top:45%;
+	  left:20%;
+  }
+  #span2{
+	  position:absolute;
+	  top:45%;
+	  left:60%;
+  }
+  .tit{
+	  font-family:黑体;
+	  font-size:1.5em;
+	  color:black;
+	  padding:5px 0 5px 0;
+  }
+  .connact{
+	  position:absolute;
+	  top:93%;
+	  left:55%;
+	  font-size:1.0em;
+  }
+  .lasttime{
+	  font-size:1.0em;
+	  position:absolute;
+	  top:96%;
+	  left:55%;
+  }
+    .thistime{
+  	  font-size:1.0em;
+	  position:absolute;
+	  top:90%;
+	  left:55%;
+	  color:black;
+  }
+a:link {color: rgb(64,173,238)}
+a:visited {color: rgb(64,173,238)}
+a:hover {color: rgb(19,145,219); text-decoration: none;}
+a:active {color: rgb(64,173,238)}
